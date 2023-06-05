@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">BotonURL</string>
     <string name="ButtonURL">IR</string>
-    <string name="link">http://google.com</string>
 </resources>
